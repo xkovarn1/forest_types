@@ -24,6 +24,8 @@ This repository contains the complete pipeline used in our paper. Our workflow c
   Contains a shapefile defining the study area / region of interest divided into specific ecological forest types.
 - `forest_categories.csv`  
   A CSV file listing the forest categories used in the paper. Please note there is no official translation so we used Google Translate API.
+- `band_descriptions.py`  
+  Contains a python dictionary with a band index (starts from 1 bacause of Rasterio) and its short description. Those bands returns the `gee_export.js`.
 
 > Note: Actual satellite raster data (e.g., `dataset.tif`) must be prepared and exported separately using the provided GEE script.
 
