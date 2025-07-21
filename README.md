@@ -20,10 +20,12 @@ This repository contains the complete pipeline used in our paper. Our workflow c
 
 ##  Data
 
+- `raster.zip`  
+  Contains a .tif file used to train XGBoost model. The last (157) is target class.
 - `final_roi_data.zip`  
-  Contains a shapefile defining the study area / region of interest.
+  Contains a shapefile defining the study area / region of interest divided into specific ecological forest types.
 - `forest_categories.csv`  
-  A CSV file listing the forest categories used as target classes in the model, including their descriptions.
+  A CSV file listing the forest categories used in the paper. Please note there is no official translation so we used Google Translate API.
 
 > Note: Actual satellite raster data (e.g., `dataset.tif`) must be prepared and exported separately using the provided GEE script.
 
