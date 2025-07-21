@@ -20,8 +20,6 @@ This repository contains the complete pipeline used in our paper. Our workflow c
 
 ##  Data
 
-- `raster.zip`  
-  Contains a .tif file used to train XGBoost model. The last (157) is target class.
 - `final_roi_data.zip`  
   Contains a shapefile defining the study area / region of interest divided into specific ecological forest types.
 - `forest_categories.csv`  
