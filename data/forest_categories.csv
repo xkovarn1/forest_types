@@ -1,0 +1,183 @@
+SLT,Name_cz,Name_en
+0X,Dealpinský bor,Dealpine pine
+1X,Dřínová doubrava,Dogwood oak forest
+2X,Dřínová doubrava s bukem,Dogwood oak forest with beech
+3X,Dřínová bučina,Dogwood beech
+4X,Dealpinská bučina,Dealpine beech
+0Z,Reliktní bor,Relict pine
+1Z,Zakrslá doubrava,Dwarf oak forest
+2Z,Zakrslá buková doubrava,Dwarf beech oak forest
+3Z,Zakrslá dubová bučina,Dwarf oak beech
+4Z,Zakrslá bučina,Dwarf beech tree
+5Z,Zakrslá jedlová bučina,Dwarf fir beech
+6Z,Zakrslá smrková bučina,Dwarf Spruce Beech
+7Z,Zakrslá buková smrčina,Dwarf beech spruce
+8Z,Jeřábová smrčina,Crane's Spruce
+9Z,Kleč,Dwarf mountain pine
+0Y,Roklinový bor,Ravine pine
+2Y,Skeletová buková doubrava,Skeletal beech oak
+3Y,Skeletová dubová bučina,Skeletal oak beech
+4Y,Skeletová bučina,Skeleton beech tree
+5Y,Skeletová jedlová bučina,Skeletal fir beech
+6Y,Skeletová smrková bučina,Skeletal Spruce Beech
+7Y,Skeletová buková smrčina,Skeletal beech spruce
+8Y,Skeletová smrčina,Skeletal spruce
+0M,Chudý (dubový) bor,Poor (oak) pine
+1M,Borová doubrava,Pine oak forest
+2M,Chudá buková doubrava,Poor beech oak
+3M,Chudá dubová bučina,A poor oak tree
+4M,Chudá bučina,Poor beech tree
+5M,Chudá jedlová bučina,Poor fir beech
+6M,Chudá smrková bučina,Poor spruce beech
+7M,Chudá buková smrčina,Poor beech spruce
+8M,Chudá smrčina,Poor spruce
+0K,Kyselý (dubový – bukový) bor,Sour (oak – beech) pine
+1K,Kyselá doubrava,Sour oak
+2K,Kyselá buková doubrava,Sour beech oak
+3K,Kyselá dubová bučina,Sour oak beech
+4K,Kyselá bučina,Sour beech
+5K,Kyselá jedlová bčina,Sour fir bark
+6K,Kyselá smrková bučina,Sour Spruce Beech
+7K,Kyselá buková smrčina,Sour beech spruce
+8K,Kyselá smrčina,Sour spruce
+9K,Klečová smrčina,Kneeling spruce
+0N,Smrkový bor,Spruce pine
+1N,Kamenitá (habrová) doubrava,Stony (hornbeam) oak forest
+2N,Kamenitá kyselá buková doubrava,Stoney sour beech oak
+3N,Kamenitá kyselá dubová bučina,Stoney sour oak beech
+4N,Kamenitá kyselá bučina,Stoney sour beech
+5N,Kamenitá kyselá jedlová bučina,Stoney sour fir beech
+6N,Kamenitá kyselá smrková bučina,Stoney Sour Spruce Beech
+7N,Kamenitá kyselá buková smrčina,Stoney sour beech spruce
+8N,Kamenitá kyselá smrčina,Stoney Sour Spruce
+1I,Uléhavá (habrová) doubrava,Recumbent (hornbeam) oak
+2I,Uléhavá kyselá buková doubrava,Lingering sour beech oak
+3I,Uléhavá kyselá dubová bučina,Lingering sour oak beech
+4I,Uléhavá kyselá bučina,Lingering sour beech
+5I,Uléhavá kyselá jedlová bučina,Lingering sour fir beech
+6I,Uléhavá kyselá smrková bučina,Lingering sour spruce beech
+1S,(Habrová) doubrava na píscích,(hornbeam) oak on the sands
+2S,Svěží buková doubrava,Fresh beech wood
+3S,Svěží dubová bučina,Fresh oak beech
+4S,Svěží bučina,Fresh beech tree
+5S,Svěží jedlová bučina,Fresh fir beech
+6S,Svěží smrková bučina,Fresh spruce beech
+7S,Svěží buková smrčina,Fresh beech spruce
+8S,Svěží smrčina,Fresh spruce
+3F,Svahová dubová bučina,Slope oak beech
+4F,Svahová bučina,Slope beech
+5F,Svahová jedlová bučina,Slope fir beech
+6F,Svahová smrková bučina,Slope spruce beech
+7F,Svahová buková smrčina,Slope beech spruce
+8F,Svahová smrčina,Slope spruce
+0C,Hadcový bor,Snake pine
+1C,Suchá habrová doubrava,Dry hornbeam oak forest
+2C,Vysýchavá buková doubrava,A drying beech oak forest
+3C,Vysýchavá dubová bučina,A drying oak tree
+4C,Vysýchavá bučina,A drying beech tree
+5C,Vysýchavá jedlová bučina,A drying fir beech
+1B,Bohatá habrová doubrava,Rich hornbeam oak forest
+2B,Bohatá buková doubrava,Rich beech oak forest
+3B,Bohatá dubová bučina,Rich oak beech
+4B,Bohatá bučina,Rich beechwood
+5B,Bohatá jedlová bučina,Rich fir beech
+6B,Bohatá smrková bučina,Rich spruce beech
+7B,(Bohatá) buková smrčina,(Affluent) Beech Spruce
+1W,Vápencová habrová doubrava,Limestone hornbeam oak forest
+2W,Vápencová buková doubrava,Limestone beech oak forest
+3W,Vápencová dubová bučina,Limestone oak beech
+4W,Vápencová bučina,Limestone beech tree
+5W,Vápencová jedlová bučina,Limestone fir beech
+1H,Sprašová habrová doubrava,Loess hornbeam oak
+2H,Hlinitá (sprašová)buková doubrava,Clay (loess) beech oak wood
+3H,Hlinitá dubová bučina,Clay oak beech
+4H,Hlinitá bučina,Clay beech tree
+5H,Hlinitá jedlová bučina,Clay fir beech
+6H,Hlinitá (oglejená) smrková bučina,Clay (glazed) spruce beech
+1D,Obohacená habrová doubrava,Enriched hornbeam oak
+2D,Obohacená buková doubrava,Enriched beech oak wood
+3D,Obohacená dubová bučina,Enriched oak beech
+4D,Obohacená bučina,Enriched beech tree
+5D,Obohacená jedlová bučina,Enriched fir beech
+6D,Obohacená smrková bučina,Enriched spruce beech
+1A,Javorohabrová doubrava,Maple oak forest
+2A,Javorobuková doubrava,Maple oak forest
+3A,Lipodubová bučina,Lipo oak beech
+4A,Lipová bučina,Linden beech tree
+5A,Klenová bučina,Maple beech
+6A,Klenosmrková bučina,Spruce beech
+8A,Klenová smrčina,Maple spruce
+1J,Habrová javořina,Horned maple
+3J,Lipová javořina,Lime maple tree
+5J,Suťová (jilmo-jasanová) javořina,Rubble (elm-ash) maple
+6J,Suťová smrkojilmová javořina,Debris spruce elm maple
+1L,Jilmový luh,Elm liquor
+2L,Potoční luh,Stream liquor
+3L,Jasanová olšina,Ash alder
+5L,Montánní jasanová olšina,Mountain ash alder
+6L,Luh olše šedé,Gray alder liquor
+1U,Topolový luh,Poplar liquor
+3U,Javorová jasenina,Maple ash
+5U,Vlhká jasanová javořina,Moist ash maple
+1V,Vlhká habrová doubrava,Damp hornbeam oak forest
+2V,Vlhká buková doubrava,Damp beech oak forest
+3V,Vlhká dubová bučina,Damp oak beech
+4V,Vlhká bučina,Damp beech tree
+5V,Vlhká jedlová bučina,Damp fir beech
+6V,Vlhká smrková bučina,Wet Spruce Beech
+7V,Vlhká buková smrčina,Damp beech spruce
+8V,Podmáčená klenová smrčina,Waterlogged arch spruce
+0O,Svěží jedlo-dubový bor,Fresh fir-oak pine
+1O,Lipová doubrava,Linden oak forest
+2O,Jedlo(buková) doubrava,Food (beech) oak
+3O,Jedlodubová bučina,Fir oak beech
+4O,Svěží dubová jedlina,Fresh oak fir
+5O,Svěží (buková) jedlina,Fresh (beech) fir
+6O,Svěží smrková jedlina,Fresh spruce fir
+7O,Svěží jedlová smrčina,Fresh fir spruce
+,Svěží (jedlová) smrčina,Fresh (fir) spruce
+0P,Kyselý jedlodubový bor,Sour hemlock pine
+1P,Svěží březová doubrava,Fresh birch oak
+2P,Kyselá jedlová doubrava,Sour fir oak
+3P,Kyselá jedlová doubrava-vyšší stupeň,Sour fir oak - higher grade
+4P,Kyselá dubová jedlina,Sour oak fir
+5P,Kyselá jedlina,Sour fir
+6P,Kyselá smrková jedlina,Sour spruce fir
+7P,Kyselá jedlová smrčina,Sour fir spruce
+8P,Kyselá (jedlová) smrčina,Sour (fir) spruce
+0Q,Chudý jedlodubový bor,Poor hemlock pine
+1Q,Březová doubrava,Birch oak forest
+2Q,Chudá (jedlová) doubrava,Poor (fir) oak
+3Q,Chudá jedlová doubrava-vyšší stupeň,Poor fir oak - higher grade
+4Q,Chudá dubová jedlina,Poor oak fir
+5Q,Chudá jedlina,Poor food
+6Q,Chudá smrková jedlina,Poor spruce fir
+7Q,Chudá jedlová smrčina,Poor fir spruce
+8Q,Podmáčená chudá smrčina,Waterlogged poor spruce
+0T,Chudý březový bor,Poor birch tree
+1T,Březová olšina,Birch alder
+2T,Podmáčená chudá jedlová doubrava,Waterlogged poor fir oak
+3T,Podmáčená chudá dubová jedlina-vyšší stupeň,Waterlogged poor oak fir-higher grade
+5T,Podmáčená chudá (dubová) jedlina,Waterlogged poor (oak) fir
+6T,Podmáčená chudá smrková jedlina,Waterlogged poor spruce fir
+7T,Podmáčená chudá jedlová smrčina,Waterlogged poor fir spruce
+8T,Podmáčená zakrslá smrčina,Waterlogged dwarf spruce
+0G,Podmáčený smrkový bor,Waterlogged spruce pine
+1G,Vrbová olšina,Willow alder
+2G,Podmáčená jedlová doubrava,Waterlogged fir oak
+3G,Podmáčená jedlová doubrava-vyšší st.,Waterlogged fir oak-higher st.
+4G,Podmáčená dubová jedlina,Waterlogged oak fir
+5G,Podmáčená jedlina,Waterlogged fir
+6G,Podmáčená smrková jedlina,Waterlogged spruce fir
+7G,Podmáčená jedlová smrčina,Waterlogged fir spruce
+8G,Podmáčená smrčina,Waterlogged spruce
+0R,rašelinný bor,bog pine
+3R,Kyselá reliktní smrčina,Sour relic spruce
+4R,Svěží reliktní smrčina,Fresh relic spruce
+5R,Rašelinná borová smrčina,Peat pine spruce
+6R,Svěží rašelinná smrčina,Fresh peat spruce
+7R,Kyselá rašelinná smrčina,Sour Peat Spruce
+8R,Vrchovištní smrčina,Highland spruce
+9R,Vrchovištní kleč,Peak kneeling
+2F,Svěží kamenitá buková DOUBRAVA,Fresh stony beech DOUBRAVA
+NE,Nezařazeno,Uncategorized
