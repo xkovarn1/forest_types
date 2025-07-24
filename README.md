@@ -15,6 +15,7 @@ This repository contains the complete pipeline used in our paper. Our workflow c
 | **xgboost.py** | Train a single XGBoost classifier on prepared raster data. Saves trained model, metrics, and plots. |
 | **cross_valid_xgb.py** | Train and evaluate XGBoost with k-fold cross-validation (default: StratifiedKFold). Saves fold-wise metrics, ROC curves, confusion matrices, and trained models. |
 | **gee_export.js** | Google Earth Engine script to export satellite data covering the study area, including multiple spectral bands or indices for machine learning. |
+| *merge.py** | Merge the training shapefile with the raster. Adds last band as target class. |
 
 ---
 
