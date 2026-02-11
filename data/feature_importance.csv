@@ -1,0 +1,153 @@
+,Feature,Importance,Band_Number,Band_Name
+0,f144,90.35501098632812,144,VH_savg: Sum Average
+1,f44,80.13141632080078,44,summer_GNDVI: Summer GNDVI median
+2,f127,60.01421737670898,127,VV_svar: Sum Variance
+3,f82,28.95868110656738,82,elevation: SRTM elevation (m)
+4,f83,22.40939521789551,83,slope: Terrain slope (degrees)
+5,f32,19.12160110473633,32,spring_GNDVI: Spring GNDVI median
+6,f107,16.90725898742676,107,NDVI_idm: Inverse Difference Moment
+7,f43,12.06187152862549,43,summer_SAVI: Summer SAVI median
+8,f41,11.40198135375977,41,summer_NDWI: Summer NDWI median
+9,f137,11.35737323760986,137,VV_shade: Shade
+10,f10,10.56317520141602,10,B11: Sentinel-2 SWIR 1 (1610nm)
+11,f84,10.53473567962646,84,aspect: Terrain aspect (degrees)
+12,f47,9.692047119140623,47,summer_RENDVI: Summer RENDVI median
+13,f90,9.45114040374756,90,CanopyHeight_savg: Sum Average
+14,f141,8.90190601348877,141,VH_corr: Correlation
+15,f116,8.669814109802246,116,NDVI_maxcorr: Max Correlation Coef
+16,f2,8.30066204071045,2,B2: Sentinel-2 Blue band (490nm)
+17,f11,8.125879287719727,11,B12: Sentinel-2 SWIR 2 (2190nm)
+18,f29,8.096698760986328,29,spring_NDWI: Spring NDWI median
+19,f59,7.93336009979248,59,autumn_RENDVI: Autumn RENDVI median
+20,f49,7.899036884307861,49,summer_MSR: Summer MSR median
+21,f111,7.522381782531738,111,NDVI_ent: Entropy
+22,f21,7.478934764862061,21,RENDVI: Red edge NDVI variant
+23,f37,7.408787727355957,37,spring_MSR: Spring MSR median
+24,f56,7.196707725524902,56,autumn_GNDVI: Autumn GNDVI median
+25,f27,6.875133037567139,27,spring_EVI: Spring EVI median
+26,f35,6.708227157592773,35,spring_RENDVI: Spring RENDVI median
+27,f124,6.705491065979004,124,VV_var: Variance
+28,f30,6.685098648071289,30,spring_NDMI: Spring NDMI median
+29,f86,6.6615891456604,86,CanopyHeight_contrast: Contrast
+30,f120,6.259767055511475,120,NDVI_prom: Prominence
+31,f55,6.228140830993652,55,autumn_SAVI: Autumn SAVI median
+32,f18,6.131422519683838,18,GNDVI: Green NDVI
+33,f5,6.12555980682373,5,B5: Sentinel-2 Red edge 1 (705nm)
+34,f115,6.084185123443604,115,NDVI_imcorr2: Info Measure Corr2
+35,f94,6.025258541107178,94,CanopyHeight_dvar: Difference Variance
+36,f103,5.931791305541992,103,NDVI_asm: Angular Second Moment
+37,f31,5.922382831573486,31,spring_SAVI: Spring SAVI median
+38,f139,5.792866230010986,139,VH_asm: Angular Second Moment
+39,f6,5.673816204071045,6,B6: Sentinel-2 Red edge 2 (740nm)
+40,f61,5.660601615905762,61,autumn_MSR: Autumn MSR median
+41,f85,5.659458160400391,85,CanopyHeight_asm: Angular Second Moment
+42,f132,5.652327537536621,132,VV_imcorr1: Info Measure Corr1
+43,f25,5.630019664764404,25,NDVI_stdDev: Standard deviation of NDVI over year
+44,f119,5.62068510055542,119,NDVI_shade: Shade
+45,f4,5.549847602844238,4,B4: Sentinel-2 Red band (665nm)
+46,f98,5.529393196105957,98,CanopyHeight_maxcorr: Max Correlation Coef
+47,f9,5.417214393615723,9,B8A: Sentinel-2 Narrow NIR (865nm)
+48,f28,5.207312107086182,28,spring_NBR: Spring NBR median
+49,f33,5.067869663238525,33,spring_RECI: Spring RECI median
+50,f145,5.049556255340576,145,VH_svar: Sum Variance
+51,f57,5.004068851470947,57,autumn_RECI: Autumn RECI median
+52,f136,4.992207527160645,136,VV_inertia: Inertia
+53,f128,4.987974166870117,128,VV_sent: Sum Entropy
+54,f118,4.937559127807617,118,NDVI_inertia: Inertia
+55,f95,4.935169219970703,95,CanopyHeight_dent: Difference Entropy
+56,f15,4.896354198455811,15,NDWI: Normalized Difference Water Index
+57,f149,4.8066086769104,149,VH_dent: Difference Entropy
+58,f48,4.694015502929688,48,summer_MTCI: Summer MTCI median
+59,f89,4.656372547149658,89,CanopyHeight_idm: Inverse Difference Moment
+60,f3,4.621580600738525,3,B3: Sentinel-2 Green band (560nm)
+61,f45,4.617761611938477,45,summer_RECI: Summer RECI median
+62,f60,4.597615242004395,60,autumn_MTCI: Autumn MTCI median
+63,f7,4.57424783706665,7,B7: Sentinel-2 Red edge 3 (783nm)
+64,f39,4.516672611236572,39,summer_EVI: Summer EVI median
+65,f105,4.48540735244751,105,NDVI_corr: Correlation
+66,f101,4.432446479797363,101,CanopyHeight_shade: Shade
+67,f53,4.324816226959229,53,autumn_NDWI: Autumn NDWI median
+68,f88,4.261545658111572,88,CanopyHeight_var: Variance
+69,f1,4.259529113769531,1,CanopyHeight: Global 1m canopy height map (m)
+70,f73,4.243131637573242,73,s1_summer_VH: Summer VH median
+71,f14,4.233036994934082,14,NBR: Normalized Burn Ratio
+72,f93,4.206137657165527,93,CanopyHeight_ent: Entropy
+73,f122,4.157670974731445,122,VV_contrast: Contrast
+74,f135,4.062535285949707,135,VV_diss: Dissimilarity
+75,f22,4.030837059020996,22,MTCI: MERIS Terrestrial Chlorophyll Index
+76,f50,3.896952152252197,50,autumn_NDVI: Autumn NDVI median
+77,f38,3.894082546234131,38,summer_NDVI: Summer NDVI median
+78,f117,3.848913431167603,117,NDVI_diss: Dissimilarity
+79,f152,3.831551551818848,152,VH_maxcorr: Max Correlation Coef
+80,f100,3.802311658859253,100,CanopyHeight_inertia: Inertia
+81,f52,3.725282192230225,52,autumn_NBR: Autumn NBR median
+82,f36,3.715675830841065,36,spring_MTCI: Spring MTCI median
+83,f150,3.626570463180542,150,VH_imcorr1: Info Measure Corr1
+84,f142,3.614988803863525,142,VH_var: Variance
+85,f40,3.591119766235352,40,summer_NBR: Summer NBR median
+86,f16,3.585654258728028,16,NDMI: Normalized Difference Moisture Index
+87,f91,3.557268142700196,91,CanopyHeight_svar: Sum Variance
+88,f108,3.479465246200561,108,NDVI_savg: Sum Average
+89,f76,3.477695226669312,76,s1_summer_VH_plus_VV: Summer VH+VV sum
+90,f24,3.463291645050049,24,NDVI_p90: 90th percentile of NDVI over year
+91,f148,3.462105751037598,148,VH_dvar: Difference Variance
+92,f131,3.416415929794312,131,VV_dent: Difference Entropy
+93,f129,3.412505626678467,129,VV_ent: Entropy
+94,f17,3.379530191421509,17,SAVI: Soil-Adjusted Vegetation Index
+95,f26,3.301954746246338,26,spring_NDVI: Spring NDVI median
+96,f13,3.261705160140991,13,EVI: Enhanced Vegetation Index
+97,f68,3.251497268676758,68,s1_spring_VH: Spring VH median
+98,f143,3.20185112953186,143,VH_idm: Inverse Difference Moment
+99,f109,3.196030616760254,109,NDVI_svar: Sum Variance
+100,f151,3.183474540710449,151,VH_imcorr2: Info Measure Corr2
+101,f140,3.18263578414917,140,VH_contrast: Contrast
+102,f92,3.149787187576294,92,CanopyHeight_sent: Sum Entropy
+103,f23,3.102083206176758,23,MSR: Modified Simple Ratio
+104,f125,3.081801176071167,125,VV_idm: Inverse Difference Moment
+105,f54,3.071703195571899,54,autumn_NDMI: Autumn NDMI median
+106,f72,3.058340549468994,72,s1_summer_VV: Summer VV median
+107,f97,3.03580641746521,97,CanopyHeight_imcorr2: Info Measure Corr2
+108,f71,3.023986101150513,71,s1_spring_VH_plus_VV: Spring VH+VV sum
+109,f65,3.003838539123535,65,VH_minus_VV: VH minus VV (dB difference)
+110,f8,3.002869606018066,8,B8: Sentinel-2 NIR (842nm)
+111,f112,2.999468326568604,112,NDVI_dvar: Difference Variance
+112,f99,2.975845336914062,99,CanopyHeight_diss: Dissimilarity
+113,f96,2.937073230743408,96,CanopyHeight_imcorr1: Info Measure Corr1
+114,f134,2.925634622573853,134,VV_maxcorr: Max Correlation Coef
+115,f147,2.847820997238159,147,VH_ent: Entropy
+116,f87,2.83849048614502,87,CanopyHeight_corr: Correlation
+117,f123,2.823508501052856,123,VV_corr: Correlation
+118,f19,2.778895139694214,19,RECI: Red Edge Chlorophyll Index
+119,f126,2.724605083465576,126,VV_savg: Sum Average
+120,f130,2.68266487121582,130,VV_dvar: Difference Variance
+121,f42,2.679518938064575,42,summer_NDMI: Summer NDMI median
+122,f62,2.667206764221191,62,VV: Sentinel-1 median backscatter VV (dB)
+123,f12,2.656945943832397,12,NDVI: Normalized Difference Vegetation Index
+124,f104,2.614312887191772,104,NDVI_contrast: Contrast
+125,f106,2.593824625015259,106,NDVI_var: Variance
+126,f63,2.570072650909424,63,VH: Sentinel-1 median backscatter VH (dB)
+127,f114,2.558681964874268,114,NDVI_imcorr1: Info Measure Corr1
+128,f78,2.556840896606445,78,s1_autumn_VH: Autumn VH median
+129,f146,2.522996664047241,146,VH_sent: Sum Entropy
+130,f67,2.482109785079956,67,s1_spring_VV: Spring VV median
+131,f77,2.466564655303955,77,s1_autumn_VV: Autumn VV median
+132,f51,2.46540904045105,51,autumn_EVI: Autumn EVI median
+133,f64,2.446877241134644,64,VH_VV_ratio: VH divided by VV
+134,f102,2.439615488052368,102,CanopyHeight_prom: Prominence
+135,f66,2.435785531997681,66,VH_plus_VV: VH plus VV (dB sum)
+136,f20,2.435684442520142,20,NDRE: NDVI using red edge band
+137,f81,2.368476629257202,81,s1_autumn_VH_plus_VV: Autumn VH+VV sum
+138,f75,2.367918491363525,75,s1_summer_VH_minus_VV: Summer VH–VV difference
+139,f138,2.3043053150177,138,VV_prom: Prominence
+140,f110,2.302817821502685,110,NDVI_sent: Sum Entropy
+141,f133,2.300065040588379,133,VV_imcorr2: Info Measure Corr2
+142,f74,2.294330596923828,74,s1_summer_VH_VV_ratio: Summer VH/VV ratio
+143,f58,2.284466743469238,58,autumn_NDRE: Autumn NDRE median
+144,f113,2.282071352005005,113,NDVI_dent: Difference Entropy
+145,f121,2.236588478088379,121,VV_asm: Angular Second Moment
+146,f34,2.145290613174438,34,spring_NDRE: Spring NDRE median
+147,f46,2.105388402938843,46,summer_NDRE: Summer NDRE median
+148,f79,1.874795079231262,79,s1_autumn_VH_VV_ratio: Autumn VH/VV ratio
+149,f70,1.659054636955261,70,s1_spring_VH_minus_VV: Spring VH–VV difference
+150,f69,1.628376603126526,69,s1_spring_VH_VV_ratio: Spring VH/VV ratio
+151,f80,1.484582304954529,80,s1_autumn_VH_minus_VV: Autumn VH–VV difference
